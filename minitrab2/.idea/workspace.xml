@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3515d29a-d9ea-4082-8192-01ddec19af9c" name="Changes" comment="">
+    <list default="true" id="3515d29a-d9ea-4082-8192-01ddec19af9c" name="Changes" comment="questão 1 feita, a 2 não está a funcionar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Grafo London.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Grafo London.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grafos_Inicio_ED-Copy1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Grafos_Inicio_ED-Copy1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,8 +82,16 @@
       <workItem from="1683619169139" duration="786000" />
       <workItem from="1683729902873" duration="80000" />
       <workItem from="1684060608744" duration="1818000" />
-      <workItem from="1684082745781" duration="7550000" />
+      <workItem from="1684082745781" duration="9062000" />
     </task>
+    <task id="LOCAL-00001" summary="questão 1 feita, a 2 não está a funcionar">
+      <created>1684090384297</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684090384297</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +107,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="questão 1 feita, a 2 não está a funcionar" />
+    <option name="LAST_COMMIT_MESSAGE" value="questão 1 feita, a 2 não está a funcionar" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
